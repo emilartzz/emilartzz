@@ -1,4 +1,4 @@
-Hi 👋 My name is Emil Warelius                  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=blue&right_color=green&left_text=Visitors)
+Hi 👋 My name is Emil Warelius                  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=emilartzz.visitor-badge&left_color=blue&right_color=blue&left_text=Visitors)
 ==============================
 
 Designer & Developer
