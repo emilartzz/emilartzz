@@ -1,7 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on chaos
-- 🌱 Currently learning different web-technologies
-- 📫 How to reach me: 
-  - Via email : wareliusemil@gmail.com
-
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=emilartzz&left_color=green&right_color=red)
