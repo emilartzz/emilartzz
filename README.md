@@ -5,7 +5,7 @@ Designer & Developer
 --------------------
 
 * 🌍  I'm based in Värnamo
-* 🖥️  See my portfolio at [Warelius.dev](http://warelius.dev)
+* 🖥️  See my portfolio at [Warelius.net](http://warelius.net)
 * ✉️  You can contact me at [hello@warelius.dev](mailto:hello@warelius.dev)
 * 🧠  I'm learning React
 
