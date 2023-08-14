@@ -32,5 +32,3 @@ Designer & Developer
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/warelius"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=emilartzz.visitor-badge&left_color=blue&right_color=blue&left_text=Visitors)
